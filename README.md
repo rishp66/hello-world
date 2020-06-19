@@ -1,4 +1,7 @@
 # hello-world
-my 1st repository
-Hello:
-I am currently learning many things about coding; so far, I know the Java language and am trying to expand my knowledge into Python and Web Development
+
+## My 1st Repo:
+ - Hello, currently I am learning Python, HTML, and C++.
+  - I already know the Java language.
+ - Within my github, I share some of my best works as well as small games I have made using various types of languages.
+ - I am currently a senior in high school and will be going to college soon :)
